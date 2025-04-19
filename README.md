@@ -138,5 +138,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact mailto:salmanfaris9911@gmail.com.
+For questions or issues, please open an issue on GitHub or contact salmanfaris9911@gmail.com.
 
